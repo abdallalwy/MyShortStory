@@ -1,5 +1,5 @@
 # MyShortStory
-This is a test repository meant to document an introductory workshop at getting started with the following items:
+This is a test repository meant to document an introductory workshop for getting started with the following items:
 
 - Command Prompt basics
 	- opening command prompt from folder
