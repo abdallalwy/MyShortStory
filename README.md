@@ -6,7 +6,6 @@ This is a test repository meant to document an introductory workshop for getting
 	- dir,mkdir, 
 	- cd .., cd folder, cd
 	- PATH
-		- global path
 	-  explorer . /xdg-open . for ubuntu
 	- echo something > path.txt
 	- using tab for autocomplete
