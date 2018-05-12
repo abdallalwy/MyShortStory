@@ -8,11 +8,11 @@ This is a test repository meant to document an introductory workshop at getting 
 	- PATH
 		- global path
 	-  explorer . /xdg-open . for ubuntu
-	- ____ > path.txt
+	- echo something > path.txt
 	- using tab for autocomplete
 	- code . / atom .
 	- cls/ clear for ubuntu
-	- command: wget/curl [Reminder for later]
+	- command: wget/curl Reminder for later
 - Download + Install git + Create a github account
 - Github Basics
 	- story repository
