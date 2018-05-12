@@ -1,6 +1,6 @@
 # MyShortStory
 
-Once upon a time, there was an elf called Pellegrino. Pellegrino was on vacation from his usual work as Santa's helper.
+Once upon a time, there was an elf called Pellegrino. Pellegrino was on vacation from his usual work as Santa's helper. He was wearing waldo's red striped shirt. 
 
 Pellegrino jumped over the fence to the autokart dome to play with the karts.
 
