@@ -21,6 +21,7 @@ This is a test repository meant to document an introductory workshop at getting 
 	- git commit -m ""
 	- git push
 	- git pull
+	- (Daniel Shiffman's tutorial)[https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV]
 
 - Download + Install conda
 - anaconda prompt
