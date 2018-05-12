@@ -22,6 +22,7 @@ This is a test repository meant to document an introductory workshop for getting
 	- git push
 	- git pull
 	- [Daniel Shiffman's tutorial](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+	- git fetch ([More information here](https://gist.github.com/CristinaSolana/1885435))
 
 - Download + Install miniconda
 - anaconda prompt
@@ -34,6 +35,8 @@ This is a test repository meant to document an introductory workshop for getting
 
 
 ___ 
+# Chapter 1
+
 Once upon a time, there was an elf called Pellegrino. Pellegrino was on vacation from his usual work as Santa's helper. He was wearing waldo's red striped shirt. 
 
 Pellegrino jumped over the fence to the autokart dome to play with the karts.
@@ -45,5 +48,3 @@ He then jumped to a kart and got inside and drove away.
 And then he lived happily ever after. 
 
 It didn'e end there, Pellegrino found a secret portal to neverland.
-
-https://gist.github.com/CristinaSolana/1885435
