@@ -1,6 +1,6 @@
 # MyShortStory
 
-Once upon a time, there was an elf called Pellegrino. 
+Once upon a time, there was an elf called Pellegrino. Pellegrino was on vacation from his usual work as Santa's helper.
 
 Pellegrino jumped over the fence to the autokart dome to play with the karts.
 
