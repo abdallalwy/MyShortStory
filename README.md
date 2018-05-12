@@ -1,7 +1,7 @@
 # MyShortStory
 This is a test repository meant to document an introductory workshop at getting started with the following items:
 
-## Command Prompt basics
+= Command Prompt basics
 	- opening command prompt from folder
 	- dir,mkdir, 
 	- cd .., cd folder, cd
@@ -13,8 +13,8 @@ This is a test repository meant to document an introductory workshop at getting 
 	- code . / atom .
 	- cls/ clear for ubuntu
 	- command: wget/curl [Reminder for later]
-## Download + Install git + Create a github account
-## Github Basics
+- Download + Install git + Create a github account
+- Github Basics
 	- story repository
 	- git bash differences
 	- git clone
@@ -22,8 +22,8 @@ This is a test repository meant to document an introductory workshop at getting 
 	- git push
 	- git pull
 
-## Download + Install conda
-## anaconda prompt
+- Download + Install conda
+- anaconda prompt
 	- conda create --name myenv
 	- activate myenv
 		- already comes with python installed
@@ -31,6 +31,8 @@ This is a test repository meant to document an introductory workshop at getting 
 			- jupyter notebook
 			- numpy/matplotlib/scipy/pandas/other essentials
 
+
+___ 
 Once upon a time, there was an elf called Pellegrino. Pellegrino was on vacation from his usual work as Santa's helper. He was wearing waldo's red striped shirt. 
 
 Pellegrino jumped over the fence to the autokart dome to play with the karts.
