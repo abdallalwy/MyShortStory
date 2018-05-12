@@ -23,7 +23,7 @@ This is a test repository meant to document an introductory workshop at getting 
 	- git pull
 	- [Daniel Shiffman's tutorial](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-- Download + Install conda
+- Download + Install miniconda
 - anaconda prompt
 	- conda create --name myenv
 	- activate myenv
