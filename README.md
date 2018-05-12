@@ -10,4 +10,4 @@ He then jumped to a kart and got inside and drove away.
 
 And then he lived happily ever after. 
 
-It didn'e end there, Pellegrino found a secret portal to neverland.
+It didn't end there, Pellegrino found a secret portal to neverland.
