@@ -1,7 +1,7 @@
 # MyShortStory
 This is a test repository meant to document an introductory workshop at getting started with the following items:
 
-= Command Prompt basics
+- Command Prompt basics
 	- opening command prompt from folder
 	- dir,mkdir, 
 	- cd .., cd folder, cd
