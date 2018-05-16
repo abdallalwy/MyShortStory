@@ -31,7 +31,7 @@ This is a test repository meant to document an introductory workshop for getting
 		- pip install some essential packages
 			- jupyter notebook [Check out this reference](https://gist.github.com/kidpixo/f4318f8c8143adee5b40)
 			- numpy/matplotlib/scipy/pandas/other essentials
-
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ___ 
 # Chapter 1
