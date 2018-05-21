@@ -1,5 +1,5 @@
 # MyShortStory
-This is a test repository meant to document an introductory workshop for getting started with the following items:
+This is a test repository meant to document an introductory workshop for getting started with the following items. For the actual story, go [here](https://github.com/WakeMeAtThree/MyShortStory/blob/master/Pellegrino%20and%20The%20Python.md).
 
 - **Command Prompt basics**
 	- opening command prompt from folder
